@@ -101,7 +101,7 @@ Material:
     m_Floats:
     - PixelSnap: 0
     - _BumpScale: 1
-    - _Bumpiness: 0.085
+    - _Bumpiness: 0
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -112,7 +112,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _NormalSharpness: 0.717
-    - _Normals: 0.627
+    - _Normals: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Roughness: 0.618
